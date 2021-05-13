@@ -24,6 +24,7 @@
     8. Life: Initialize to 3, decrease when Doodle hit Monster,  Hazard or Blackhole
 ## Polymorphism
     Monster type2 is a Polymorphism from Monster type1
+    Enermy type2 is a Polymorphism from Enermy type1
 ## Bonus
     1. BackGround Music: play when game window start
     2. Bullet Musix: play when bullet is fired
